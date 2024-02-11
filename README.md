@@ -24,8 +24,7 @@ They call me the Code Capo, a digital don with a mastery of various skills in th
 * Twitter:  [@wizkhalifax](https://twitter.com/wizkhalifax)
 * Discord:  [@wizkhalifax_](your_discord_username)
 * Minecraft Server: [play.adobomc.xyz](https://play.adobomc.xyz)
-* Server Store: [![simple github banner](https://github.com/markjordanugtongspc/markjordanugtongspc/assets/159249841/5f56464d-c42b-40ef-b7a2-5b6928fe610b)
-adobomc.craftingstore.net](https://adobomc.craftingstore.net)
+* Server Store: adobomc.craftingstore.net](https://adobomc.craftingstore.net)
 
 **🎭 Fun Fact:**
 
